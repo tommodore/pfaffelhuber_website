@@ -2082,7 +2082,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4c5c96;
+			border-color: #88cc88;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2563,7 +2563,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #4c5c96;
+			background-color: #88cc88;
 			box-shadow: none;
 		}
 
@@ -2931,7 +2931,7 @@
 			-ms-transition: opacity 0.35s ease, -ms-transform 0.35s ease;
 			transition: opacity 0.35s ease, transform 0.35s ease;
 			-webkit-overflow-scrolling: touch;
-			background: #4c5c96;
+			background: #88cc88;
 			border-radius: 5px;
 			display: block;
 			max-width: 100%;
@@ -3325,7 +3325,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #353849;
+			background-color: #116611;
 		}
 
 			.wrapper.style2:before, .wrapper.style2:after {
@@ -3333,7 +3333,7 @@
 			}
 
 		.wrapper.style3 {
-			background-color: #3d4051;
+			background-color: #2d882d;
 		}
 
 			.wrapper.style3:before, .wrapper.style3:after {
@@ -3341,7 +3341,7 @@
 			}
 
 		.wrapper.style4 {
-			background-color: #454858;
+			background-color: #55aa55;
 		}
 
 			.wrapper.style4:before, .wrapper.style4:after {
@@ -3365,7 +3365,7 @@
 			}
 
 		.wrapper.spotlight {
-			background-color: #4c5c96;
+			background-color: #88cc88;
 		}
 
 			.wrapper.spotlight:before, .wrapper.spotlight:after {
