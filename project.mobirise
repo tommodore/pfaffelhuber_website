@@ -76,8 +76,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Spedition Pfaffelhuber",
+        "meta_descr": "Ihre Spedition für Heizöl, Benzin und Diesel",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1593,9 +1593,9 @@
         }
       ]
     },
-    "page1.html": {
+    "privacy.html": {
       "settings": {
-        "title": "Impressum &amp; Datenschutz",
+        "title": "Impressum und Datenschutz",
         "order": 1
       },
       "components": [
